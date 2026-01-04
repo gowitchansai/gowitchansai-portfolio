@@ -23,7 +23,7 @@ const Hero = () => {
             </h1>
 
             <h2 className="text-xl md:text-2xl font-semibold text-primary mb-3">
-              วิศวกรรมคอมพิวเตอร์ | Software & Machine Learning Engineer
+              วิศวกรรมคอมพิวเตอร์ | Computer Engineering
             </h2>
 
             <p className="text-base md:text-lg text-slate-600 mb-5 leading-relaxed max-w-2xl">
