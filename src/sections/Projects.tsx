@@ -31,21 +31,25 @@ const ProjectsSection = () => {
             github={ML_REPO}
           />
 
-          <ProjectCard
+          <ComingSoonCard />
+
+          {/* <ProjectCard
             title="Task Master ตัวอย่าง "
             image="/projects/task-master.png"
             description="Collaborative project management tool inspired by Trello"
             tags={["Next.js", "Prisma", "Postgres"]}
             github="https://github.com/xxx/task-master"
             liveDemo="https://task-master.vercel.app"
-          />
+          /> */}
 
-          <ProjectCard
+          <ComingSoonCard />
+
+          {/* <ProjectCard
             title="Task Master"
             image="https://lh3.googleusercontent.com/aida-public/AB6AXuAdkNJdYlT_89rnBlowinTHNunfCmB9u6183AkAWj0JUSablHst9dcRLRSudawHvjbn5wkL6VJKnd8NsdMcKjvPeDdbyiDf4xZSCfhiBwAf55puPa8uMluiELC8Mrhi-NmQ_CinsogHF8vwekng_HLDKS1Fcxqg3noP-r9XH_VN8IGw-LwbCatYI2GFnzYSwDveQwXfG6MdLTCHYfcdLHugPJzJ5ELiUkoz-kNKv1yvEU8HObEjYoCbDZXtLUCknKg8Kin8tMuVJNzE"
             description="A collaborative project management tool inspired by Trello. Users can create boards, drag and drop tasks, and assign team members in real-time."
             tags={["Next.js", "Prisma", "Postgres"]}
-          />
+          /> */}
 
           <ComingSoonCard />
         </div>
